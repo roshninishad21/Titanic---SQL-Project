@@ -1,1 +1,1 @@
-# Titanic---SQL-Project
+# Titanic-SQL-Project
